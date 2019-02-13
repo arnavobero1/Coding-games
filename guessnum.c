@@ -13,7 +13,7 @@ int main()
 	//Initialization of random number
 	srand((unsigned) time (&t));
 	//Getting the random number
-	num = rand() % 51;
+	num = rand() % 101;
 
 	//Printing out the messages to make the game understandable for user.
 	printf("This is a guessing game.\n");
@@ -34,7 +34,7 @@ int main()
 			printf("\nYou guessed the number! Well done.");
 			break;
 		}
-		else if(inputnum < 0 || inputnum > 50)
+		else if(inputnum < 0 || inputnum > 100)
 		{
 			printf("\nWhoops! Its out of range.\n");
 		}
