@@ -1,8 +1,11 @@
-#Objective of this program is to create an error handled tic tac toe game.
-#The game works by the inputs given by the user.
-#The program creates a log file tttg.log in the same directory as of this file.
-#The logging level has been set to INFO.
-#Defining function to create the board.
+'''
+Objective of this program is to create an error handled tic tac toe game.
+The game works by the inputs given by the user.
+The program creates a log file tttg.log in the same directory as of this file.
+The logging level has been set to INFO.
+Defining function to create the board.
+
+'''
 
 #Importing the necessary libraries.
 import logging
