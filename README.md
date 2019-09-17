@@ -6,4 +6,4 @@ For now the games i have made are -
 1. C guess the number game
 2. Python tic tac toe game
 3. C tic tac toe game
-4. Rock Paper Scissors
+4. Python Rock Paper Scissors
